@@ -4,7 +4,7 @@ function Header() {
       <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            <img src="./src/components/images/beauty2.jpg" alt="Pravi Beauty" />
+            <img src="src/public/images/beauty2.jpg" alt="Pravi Beauty" />
           </a>
           <button
             className="navbar-toggler"

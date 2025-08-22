@@ -3,7 +3,7 @@ function Blog() {
     {
       title: 'Top 5 Skincare Tips for Glowing Skin',
       excerpt: 'Discover the secrets to achieving radiant, healthy-looking skin with our expert skincare tips and recommendations.',
-      image: './src/components/images/about-img.jpg',
+      image: 'src/public/images/about-img.jpg',
       date: 'March 15, 2024',
       category: 'Skincare'
     },

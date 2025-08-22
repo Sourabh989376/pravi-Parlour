@@ -89,7 +89,7 @@ function Footer() {
             </div>
             <div className="d-flex align-items-center mb-3">
               <i className="fas fa-envelope me-3"></i>
-              <span>info@pravibeauty.com</span>
+              <a href="shivanimakeupartist414@gmail.com" >shivanimakeupartist414@gmail.com</a>
             </div>
             <div className="d-flex align-items-center">
               <i className="fas fa-clock me-3"></i>

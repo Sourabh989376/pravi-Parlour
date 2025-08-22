@@ -122,7 +122,7 @@ function About() {
                 </div>
                 <div className="col-6">
                   <img
-                    src="./src/components/images/blog-1.jpg"
+                    src="src/public/images/blog-1.jpg"
                     alt="Skincare"
                     className="img-fluid rounded-3 shadow-sm mb-3"
                     style={{
@@ -132,7 +132,7 @@ function About() {
                     }}
                   />
                   <img
-                    src="./src/components/images/service-img5.jpg"
+                    src="src/public/images/service-img5.jpg"
                     alt="Hair Care"
                     className="img-fluid rounded-3 shadow-sm"
                     style={{
