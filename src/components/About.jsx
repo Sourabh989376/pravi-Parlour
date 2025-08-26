@@ -1,3 +1,6 @@
+import blog1 from "../../public/images/blog-1.jpg";
+import serviceImg from "../../public/images/service-img5.jpg";
+
 function About() {
   const features = [
     {
@@ -122,7 +125,7 @@ function About() {
                 </div>
                 <div className="col-6">
                   <img
-                    src="./public/images/blog-1.jpg"
+                    src={blog1}
                     alt="Skincare"
                     className="img-fluid rounded-3 shadow-sm mb-3"
                     style={{
@@ -132,7 +135,7 @@ function About() {
                     }}
                   />
                   <img
-                    src="./public/images/service-img5.jpg"
+                    src={serviceImg}
                     alt="Hair Care"
                     className="img-fluid rounded-3 shadow-sm"
                     style={{

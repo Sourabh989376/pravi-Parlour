@@ -1,10 +1,12 @@
+import beauty2 from "../../public/images/beauty2.jpg";
+
 function Header() {
   return (
     <>
       <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            <img src="./public/images/beauty2.jpg" alt="Pravi Beauty" />
+            <img src={beauty2} alt="Pravi Beauty" />
           </a>
           <button
             className="navbar-toggler"

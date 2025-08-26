@@ -1,3 +1,6 @@
+import beautyVideo from "../../public/images/beauty-video8.mp4";
+import beautyVideo2 from "../../public/images/beauty-video2.mp4";
+
 function Hero() {
   return (
     <section id="home" className="hero-section">
@@ -36,10 +39,10 @@ function Hero() {
             <div className="hero-video">
               <video autoPlay muted loop playsInline className="video-player">
                 <source
-                  src="./public/images/beauty-video8.mp4"
+                  src={beautyVideo}
                   type="video/mp4"
                 />
-                <source src="./public/images/beauty-video.webm" type="video/webm" />
+                <source src={beautyVideo2} type="video/webm" />
                 Your browser does not support the video tag.
               </video>
             </div>
