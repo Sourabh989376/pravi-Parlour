@@ -1,3 +1,8 @@
+import shibudi from '../../public/images/shibbu di.jpg';
+import artist from '../../public/images/Artist.jpg';
+import bitti from "../../public/images/bitti.jpg"
+
+
 function Professionals() {
   const professionals = [
     {
@@ -5,7 +10,7 @@ function Professionals() {
       specialty: "Hair Stylist & Makeup Artist",
       rating: 4.9,
       reviews: 127,
-      image: "./public/images/shibbu di.jpg",
+      image: shibudi,
       location: "Satna",
     },
     {
@@ -13,7 +18,7 @@ function Professionals() {
       specialty: "Skin Specialist",
       rating: 4.8,
       reviews: 98,
-      image: "./public/images/Artist.jpg",
+      image: artist,
       location: "Satna",
     },
     {
@@ -21,8 +26,7 @@ function Professionals() {
       specialty: "Nail Artist",
       rating: 4.9,
       reviews: 156,
-      image:
-        "./public/images/bitti.jpg",
+      image: bitti,
       location: "Babupur Satna",
     },
   ];

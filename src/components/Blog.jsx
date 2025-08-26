@@ -1,9 +1,11 @@
+import aboutImage from '../../public/images/about-img.jpg'
+
 function Blog() {
   const blogPosts = [
     {
       title: 'Top 5 Skincare Tips for Glowing Skin',
       excerpt: 'Discover the secrets to achieving radiant, healthy-looking skin with our expert skincare tips and recommendations.',
-      image: './public/images/about-img.jpg',
+      image: aboutImage,
       date: 'March 15, 2024',
       category: 'Skincare'
     },
