@@ -5,7 +5,7 @@ function Professionals() {
       specialty: "Hair Stylist & Makeup Artist",
       rating: 4.9,
       reviews: 127,
-      image: "src/public/images/shibbu di.jpg",
+      image: "./public/images/shibbu di.jpg",
       location: "Satna",
     },
     {
@@ -13,7 +13,7 @@ function Professionals() {
       specialty: "Skin Specialist",
       rating: 4.8,
       reviews: 98,
-      image: "src/public/images/Artist.jpg",
+      image: "./public/images/Artist.jpg",
       location: "Satna",
     },
     {
@@ -22,7 +22,7 @@ function Professionals() {
       rating: 4.9,
       reviews: 156,
       image:
-        "src/public/images/bitti.jpg",
+        "./public/images/bitti.jpg",
       location: "Babupur Satna",
     },
   ];

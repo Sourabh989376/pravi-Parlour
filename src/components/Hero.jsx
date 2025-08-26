@@ -36,10 +36,10 @@ function Hero() {
             <div className="hero-video">
               <video autoPlay muted loop playsInline className="video-player">
                 <source
-                  src="src/public/images/beauty-video8.mp4"
+                  src="./public/images/beauty-video8.mp4"
                   type="video/mp4"
                 />
-                <source src="/beauty-video.webm" type="video/webm" />
+                <source src="./public/images/beauty-video.webm" type="video/webm" />
                 Your browser does not support the video tag.
               </video>
             </div>
